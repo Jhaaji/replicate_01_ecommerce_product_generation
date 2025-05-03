@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+replicate
+requests
+python-dotenv
+pydantic
+requests
+urllib3
+python-multipart
